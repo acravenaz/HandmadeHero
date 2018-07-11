@@ -34,3 +34,6 @@
 win32_handmade.cpp
 win32_handmade.h
 linux_handmade.cpp
+.emacs
+emacs_keybindings.txt
+emacs.bat
