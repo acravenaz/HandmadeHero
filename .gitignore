@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+win32_handmade.cpp
+win32_handmade.h
+linux_handmade.cpp
