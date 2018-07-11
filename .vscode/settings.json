@@ -1,0 +1,6 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    // Controls if the minimap is shown
+    "editor.minimap.enabled": false,
+    "C_Cpp.dimInactiveRegions": false
+}

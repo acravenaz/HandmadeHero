@@ -1,0 +1,16 @@
+{
+    "version": "0.1.0",
+    "tasks": [
+        {
+            "taskName": "build",
+            "command": "build",
+            "isShellCommand": true,
+            "isBuildCommand": true
+        },
+        {
+            "taskName": "shell",
+            "command": "E:/handmade/misc/shell.bat",
+            "isShellCommand": true
+        }
+    ]
+}
