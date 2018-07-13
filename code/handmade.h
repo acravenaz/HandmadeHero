@@ -9,7 +9,6 @@
 	======================================================================== */
 
 
-// TODO(casey): Implement sine ourselves
 
 #include "handmade_platform.h"
 #include "handmade_intrinsics.h"
